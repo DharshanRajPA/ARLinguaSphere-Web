@@ -1,0 +1,8 @@
+{
+  "name": "AR Language Learner",
+  "description": "An immersive, AI-powered language learning assistant. Upload an image or use your webcam to detect objects, see their names, and hear them translated into a language of your choice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
